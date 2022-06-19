@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1> Home page</h1>
-<p> Hari Techs Channel</p>
+<p> Hari Techs Channel youtube channel</p>
 </body>
 </html>
