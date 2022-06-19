@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1> Home page</h1>
+<p> Hari Techs Channel</p>
+</body>
+</html>
